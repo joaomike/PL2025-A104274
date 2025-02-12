@@ -1,6 +1,6 @@
 # PL2025
 
-**Nome: João Rodrigues - A104274**  
+**Nome: João Rodrigues**  
 **Numero: A104274**
 
 ## Objetivo
